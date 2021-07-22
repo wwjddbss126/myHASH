@@ -12,14 +12,13 @@
 1. `Select file to hash` 버튼을 눌러 파일 탐색기에서 해시값을 추출한 파일을 선택한다.
 ![image](https://user-images.githubusercontent.com/49504937/126594677-0001393b-4ba3-4a7e-8e82-b5f5a22175c5.png)
 
-2. 지정한 파일에 대한 해시값을 확인한다.
-![image](https://user-images.githubusercontent.com/49504937/126594712-8da8be55-e335-4ebe-b4f7-fc3deb282a49.png)
-
+2. 지정한 파일에 대한 해시값을 확인한다.\
+![image](https://user-images.githubusercontent.com/49504937/126595604-ee4f1836-2c59-4ed4-9d40-d91afee9bcd2.png)
 ## 2. FINDING FILE WITH HASH
 이 기능은 사용자가 이미 알고있는 해시값을 기반으로 지정한 디렉터리 내에 해당 해시값을 가지는 파일이 있는지의 여부를 알려준다.
-1. Hash Type을 선택하고 Hash Value, Dir. Scope를 입력한 후 `ㅇㅇ`를 클릭하여 검색을 시작한다. 이 때 디렉터리 경로를 지정하면 그 하위 디렉터리도 포함하여 검색한다.
+1. Hash Type을 선택하고 Hash Value, Dir. Scope를 입력한 후 `Find file with hash`를 클릭하여 검색을 시작한다. 이 때 디렉터리 경로를 지정하면 그 하위 디렉터리도 포함하여 검색한다.
 
-![image](https://user-images.githubusercontent.com/49504937/126594981-afcaa5e7-5b96-4799-ad27-9893585a9179.png)
+![image](https://user-images.githubusercontent.com/49504937/126595689-bb2c794a-0d5c-4328-a591-dea63b443158.png)
 
 2-1. 존재할 경우: 입력한 해시값에 매치되는 파일의 정보를 확인하고, `예`를 눌러 위치한 디렉터리를 열거나 `아니요`를 눌러 닫는다.
 
