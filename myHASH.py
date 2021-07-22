@@ -71,7 +71,7 @@ def connDB(hashType, hashValue, hashScope):
 def gui():
     window = Tk()
     window.title("myHASH")
-    window.iconbitmap('C:\\Users\82107\OneDrive - 서울여자대학교\BoB 10th\\01. BOB BI\\bob_bi_solid.ico')
+    # window.iconbitmap('C:\\Users\82107\OneDrive - 서울여자대학교\BoB 10th\\01. BOB BI\\bob_bi_solid.ico')
 
     label_n1 = Label(window, text = '=========HASHING FILE=========')
     label_n1.grid(row=0, column=0, columnspan=2)
